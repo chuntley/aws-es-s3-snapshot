@@ -1,0 +1,11 @@
+{
+  "name": "aws-es-s3-snapshot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chad Huntley",
+  "license": "MIT",
+  "dependencies": {
+    "aws4": "^1.6.0",
+    "node-fetch": "^1.7.3"
+  }
+}
