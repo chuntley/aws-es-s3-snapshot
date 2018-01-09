@@ -40,6 +40,8 @@ Or if you have exported the environment variables you can simply run this with:
 
 All are required.
 
+| Variable | Description |
+| --- | --- |
 | ES_REGION | Elasticsearch region |
 | S3_REGION | S3 Bucket region |
 | BUCKET_NAME | S3 Bucket name |
