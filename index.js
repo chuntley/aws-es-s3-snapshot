@@ -19,7 +19,8 @@ const requestOptions = {
       bucket: process.env.BUCKET_NAME,
       base_path: process.env.BUCKET_PATH,
       region: process.env.S3_REGION,
-      role_arn: process.env.ROLE_ARN
+      role_arn: process.env.ROLE_ARN,
+      readonly: process.env.READ_ONLY || false,
     }
   })
 };

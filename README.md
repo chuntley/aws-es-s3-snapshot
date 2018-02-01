@@ -48,6 +48,7 @@ All are required.
 | ACCESS_KEY | Your AWS access key |
 | SECRET_KEY | Your AWS secret key |
 | SNAPSHOT_NAME | The snapshot name |
+| READ_ONLY | Make read only, defaults to false (optional) |
 | LOCAL_ES_PORT | The local port your tunneled ES instance |
 
 ## License
